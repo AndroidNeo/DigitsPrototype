@@ -1,0 +1,7 @@
+#main_window .tile_play
+{
+	width: 19px;
+	height: 19px;	
+	border: 1px solid #999;
+	position: absolute;	
+}
