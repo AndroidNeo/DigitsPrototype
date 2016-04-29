@@ -6,8 +6,10 @@ var levelCount = 20;
 
 
 function createLevelChoiceWindow() {
+
     clearScreen();
     addLevelsElements();
+
 }
 
 function clearScreen() {
