@@ -1,7 +1,17 @@
-#main_window .tile_play
+#main_screen .tile_play
 {
 	width: 19px;
 	height: 19px;	
 	border: 1px solid #999;
 	position: absolute;	
+}
+
+#main_screen .level_item
+{
+	width: 40px;
+	height: 40px;
+	border: 3px solid #999;
+	position: relative;
+	float: left;
+
 }
